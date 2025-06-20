@@ -33,7 +33,7 @@ A terminal-based app that:
 
 > Concepts used: dictionaries, loops, conditionals, input handling
 
-### 2. [Quiz App](quiz-app/)
+### 2. [Simple Quiz App](simple-quiz-app/)
 - Take randomized quizzes in Maths and Biology.
 - Score tracking per subject.
 - Uses `match-case`, input validation, and the `random` module.
