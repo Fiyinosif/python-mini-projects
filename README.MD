@@ -25,7 +25,7 @@ Each project includes:
 
 ## 📁 Projects
 
-### 1. Student Grade Tracker 📚
+### 1. [Student Grade Tracker](student-grade-tracker/) 📚
 A terminal-based app that:
 - Stores student names and grades
 - Calculates grade performance (A–F)
@@ -33,7 +33,30 @@ A terminal-based app that:
 
 > Concepts used: dictionaries, loops, conditionals, input handling
 
+### 2. [Quiz App](quiz-app/)
+- Take randomized quizzes in Maths and Biology.
+- Score tracking per subject.
+- Uses `match-case`, input validation, and the `random` module.
+- [View project README](quiz-app/README.md)
+
 More projects coming soon...
+
+---
+
+## 💡 Purpose
+
+These projects are designed to:
+- Strengthen my understanding of Python fundamentals
+- Build a portfolio of small, working applications
+- Practice real-world programming patterns
+
+---
+
+## 📌 Technologies Used
+
+- Python 3.10+
+- Command-line interface (CLI)
+- Core Python data structures and control flow
 
 ---
 
